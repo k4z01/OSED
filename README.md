@@ -6,7 +6,7 @@
   not depend on the victim's Windows / `kernel32.dll` version as it does not rely on OS DLL offsets.
 
   Written while preparing for the OSED certification. The repo also includes a small
-  bad-bytes scanner used to validate the payload before sending it.
+  bad-bytes scanner that can easily be adjusted to work with other binaries as well.
 
   > 📝 Full write-up: https://book.blindsecurity.gr/posts/sync-breeze-enterprise-10.0.28-windows-version-independent-rop-chain
 
