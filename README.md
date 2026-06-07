@@ -8,7 +8,7 @@
   Written while preparing for the OSED certification. The repo also includes a small
   bad-bytes scanner used to validate the payload before sending it.
 
-  > 📝 Full write-up: https://book.blindsecurity.gr/
+  > 📝 Full write-up: https://book.blindsecurity.gr/posts/sync-breeze-enterprise-10.0.28-windows-version-independent-rop-chain
 
   ---
 
