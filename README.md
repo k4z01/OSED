@@ -8,7 +8,7 @@
   Written while preparing for the OSED certification. The repo also includes a small
   bad-bytes scanner that can easily be adjusted to work with other binaries as well.
 
-  > 📝 Full write-up: [https://book.blindsecurity.gr/posts/sync-breeze-enterprise-10.0.28-windows-version-independent-rop-chain](https://k4z0.sh/writeups/sync-breeze-enterprise-10-0-28-rop-chain/)
+  > 📝 Full write-up: [https://k4z0.sh/writeups/sync-breeze-enterprise-10-0-28-rop-chain/](https://k4z0.sh/writeups/sync-breeze-enterprise-10-0-28-rop-chain/)
 
   ---
 
